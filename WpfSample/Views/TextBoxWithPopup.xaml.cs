@@ -24,5 +24,20 @@ namespace WpfSample.Views
         {
             InitializeComponent();
         }
+
+        private void TextBox_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void TextBox_IsEnabledChanged(object sender, DependencyPropertyChangedEventArgs e)
+        {
+
+        }
+
+        private void TextBox_GotFocus(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
